@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet)
 ![EDA](https://img.shields.io/badge/EDA-Business%20Analysis-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
