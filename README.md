@@ -1,10 +1,35 @@
 # 📊 Sales Performance Analysis using Python
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![EDA](https://img.shields.io/badge/EDA-Business%20Analysis-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## Project Overview
 
 This project analyzes the Superstore Sales dataset using Python to identify sales trends, profitability, discount patterns, and business performance across product categories and regions.
 
 The objective is to demonstrate Exploratory Data Analysis (EDA) skills and generate business insights that support data-driven decision making.
+
+---
+
+## Project Preview
+
+### Sales by Category
+
+![Sales by Category](images/sales_by_category.png)
+
+### Profit by Region
+
+![Profit by Region](images/profit_by_region.png)
+
+### Profit Margin by Category
+
+![Profit Margin by Category](images/profit_margin_by_category.png)
+
+### Top 10 Highest Profit Products
+
+![Highest Profit Product](images/highest_profit_products.png)
 
 ---
 
